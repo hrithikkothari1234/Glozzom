@@ -72,3 +72,19 @@ body{
 #about h1{
   font-family: Roboto,Georgia,Helvetica,sans;
 }
+
+#faq .card{
+  border: #444;
+}
+
+#faq a{
+  color: white;
+  text-decoration: none;
+}
+
+#faq .card-body{
+  background: #333;
+}
+#faq .card-header{
+  background: #d9534f;
+}
