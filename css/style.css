@@ -88,3 +88,11 @@ body{
 #faq .card-header{
   background: #d9534f;
 }
+
+#mainFooter{
+  background: black;
+  color: #fff;
+}
+.instapadding{
+  padding-left: 1rem;
+}
