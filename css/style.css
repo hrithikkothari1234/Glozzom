@@ -60,3 +60,15 @@ body{
 #video-play a{
   color: white;
 }
+#page-header{
+  height: 200px;
+  background: url('../img/image1.jpg');
+  background-position: 0 -360px;
+  background-attachment: fixed;
+  color: white;
+  border-bottom: 1px #eee solid;
+  padding-top: 50px;
+}
+#about h1{
+  font-family: Roboto,Georgia,Helvetica,sans;
+}
